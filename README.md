@@ -37,3 +37,11 @@ and heatmaps to support churn-related insights.
 - Build a churn prediction model using machine learning
 - Perform feature importance analysis
 - Evaluate retention strategies based on churn drivers
+
+## How to Run
+1. Clone the repository
+2. Install required libraries:
+   pip install pandas numpy matplotlib seaborn
+3. Download the Telco Customer Churn dataset separately
+4. Place the CSV file inside a local `data/` folder
+5. Run the notebook in `notebooks/customer_churn_analysis.ipynb`
